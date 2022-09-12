@@ -1,0 +1,2 @@
+# Tip-Calculator
+![](thumbnail.png)
